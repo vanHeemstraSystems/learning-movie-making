@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-movie-making/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-movie-making/actions/workflows/publish.yml)
+
 learning-movie-making
 # Learning Movie Making
 
