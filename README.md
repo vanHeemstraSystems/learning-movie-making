@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+learning-movie-making
+# Learning Movie Making
 
-Based on "ABC" at https://www.abc.com/
+Based on "StudioBinder" at https://www.studiobinder.com/
 
 ## 100 - Introduction
 
@@ -11,7 +11,7 @@ See [README.md](./100/README.md)
 
 See [README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Learning Our Subject
 
 See [README.md](./300/README.md)
 
